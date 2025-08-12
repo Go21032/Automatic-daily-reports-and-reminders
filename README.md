@@ -1,0 +1,2 @@
+# Automatic-daily-reports-and-reminders
+日報アンケートを回答するとGoogleカレンダーにスケジュールが設定され、時刻が近づくとリマインドされる
